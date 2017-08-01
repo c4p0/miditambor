@@ -8,3 +8,4 @@ void loop(){
   int piezoVal = analogRead(piezo);
   Serial.println(piezoVal);
 }
+
