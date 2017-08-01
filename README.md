@@ -20,3 +20,6 @@ Requerimientos complementarios:
 -Mediante un segundo pedal poder modificar la duración (sustain) de la nota.
 
 2 piezos o botones adicionales en los lados del tambor que puedan serivir como  swtiches para modificar por ejemplo el rango del pedal de nota o que sirvan como  triggers adicionales sin modificacion de la nota pero con sensibilidad  de velocity.
+
+LUZ
+unA malla de leds es activada por el sonido y genera patrones especificos en cada escena (cancion)
